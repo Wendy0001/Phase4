@@ -35,9 +35,15 @@ My primary objective is to develop and implement an image-based deep learning sy
 # f) Data Understanding
 The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). Before I embarked on this transformative venture, my dataset underwent rigorous quality control. I meticulously removed scans that were of low quality or deemed unreadable to ensure the integrity of my data. The diagnostic labels for each image category were thoughtfully assessed by two expert physicians, forming the cornerstone for training my AI system. To bolster the reliability of my dataset, a third expert meticulously reviewed the evaluation set, minimizing the potential for grading errors.
 
-# g) Metrics For Success  
+# g) Metrics For Success 
 
 To achieve a substantial increase in accuracy from the initial model architecture. 
+
+# Stakeholder Audience
+
+1) Healthcare Professionals: As a radiologist, physician, or medical expert, I understand the importance of precise and timely diagnoses. This project offers a valuable AI tool that greatly aids in early disease detection, ultimately enhancing patient care. By leveraging this technology, I can improve the accuracy of their diagnoses, enabling swifter interventions and better healthcare outcomes for their patients.
+
+Patients: As a patient, I value the significance of early disease detection in my healthcare journey. This project directly benefits me by ensuring that my diagnoses are more accurate, leading to more effective treatments, improved health outcomes, and potentially shorter hospital stays. It provides me with confidence in the healthcare system's ability to detect and manage diseases promptly, contributing to my overall well-being.
 
 # 2. Training my models
 
